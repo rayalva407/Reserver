@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reserver</string>
+    <string name="question"><b>Where do you want to sit?</b></string>
+    <string name="a_stylish_waiter">A stylish waiter</string>
+    <string name="number_of_people">How many seats are you reqesting</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="table_image_description">table</string>
+    <string name="booth_image_description">booth</string>
+    <string name="floor_plan_of_restaurant_image_description">floor plan of restaurant</string>
+    <string name="go_back_to_main_screen_button_description">Go Back to main screen</string>
+</resources>
