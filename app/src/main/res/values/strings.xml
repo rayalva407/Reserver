@@ -8,4 +8,6 @@
     <string name="booth_image_description">booth</string>
     <string name="floor_plan_of_restaurant_image_description">floor plan of restaurant</string>
     <string name="go_back_to_main_screen_button_description">Go Back to main screen</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
 </resources>

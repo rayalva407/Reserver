@@ -186,16 +186,4 @@
 
     </androidx.gridlayout.widget.GridLayout>
 
-    <ImageView
-            android:id="@+id/imageView25"
-            android:layout_width="80dp"
-            android:layout_height="80dp"
-            android:layout_marginEnd="40dp"
-            app:srcCompat="@drawable/back_button"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent"
-            tools:layout_editor_absoluteY="249dp"
-            android:layout_margin="20dp"
-            android:contentDescription="@string/go_back_to_main_screen_button_description"/>
-
 </androidx.constraintlayout.widget.ConstraintLayout>

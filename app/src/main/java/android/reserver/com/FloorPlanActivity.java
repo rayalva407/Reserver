@@ -23,6 +23,7 @@ public class FloorPlanActivity extends AppCompatActivity {
     int number;
     String[] state;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -52,11 +53,6 @@ public class FloorPlanActivity extends AppCompatActivity {
                 imageView.setImageResource(R.drawable.round_faded);
             }
         }
-
-        backButton.setOnClickListener( (v) -> {
-            Intent backIntent = new Intent(this, MainActivity.class);
-            startActivity(backIntent);
-        });
     }
 
     @Override
